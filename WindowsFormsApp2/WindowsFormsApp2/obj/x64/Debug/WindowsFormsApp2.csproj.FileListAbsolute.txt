@@ -1,0 +1,18 @@
+C:\Users\C\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.exe.config
+C:\Users\C\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.exe
+C:\Users\C\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.pdb
+C:\Users\C\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Memory.dll
+C:\Users\C\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Memory.xml
+C:\Users\C\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\C\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\C\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\C\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\C\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.exe
+C:\Users\C\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.pdb
+C:\Users\C\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\MetroSet UI.dll
+C:\Users\C\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\dje-NE\WindowsFormsApp2.resources.dll
+C:\Users\C\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\MaterialSkin.dll
+C:\Users\C\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Form1.dje-NE.resources
+C:\Users\C\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\dje-NE\WindowsFormsApp2.resources.dll
+C:\Users\C\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\C\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
